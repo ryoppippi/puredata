@@ -1,2 +1,2 @@
 # puredata
-somathing in puredata
+Some experiment or learning for PD
